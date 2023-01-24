@@ -11,8 +11,12 @@ class TurkishVerbConjugator:
         """
         # Implement the rules of suffixation and phonetic changes here
         pass
-It should be noted that, this is a basic shell of a verb conjugator, you need to implement the rules of suffixation and phonetic changes as well as the logic for different tenses and conjugations. It is a non-trivial task and requires a good understanding of Turkish grammar, and it is recommended to consult a professional.
+"""
+It should be noted that, this is a basic shell of a verb conjugator, you need to implement the rules of 
+suffixation and phonetic changes as well as the logic for different tenses and conjugations. 
+It is a non-trivial task and requires a good understanding of Turkish grammar, and it is recommended to consult a professional.
 
+"""
 
 
 
